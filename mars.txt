@@ -3,3 +3,5 @@ The two moons may be a problem for Wolfman.
 this is the current change
 Here is a change that I made on GitHub.
 Here is a change I'm making locally.
+
+Collaborator's change here!
